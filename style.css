@@ -85,6 +85,7 @@ body{
     width: 150px;
     transition: 0.2s;
     color: white;
+    background-color: black;
 }
 
 .redes_sociais a:hover {
